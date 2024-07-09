@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Navya, a sophomore at Bhagwan Parshuram Institute of Technology, Delhi.
+- 👋 Hi, I’m Navya, a third year student at Bhagwan Parshuram Institute of Technology, Delhi.
 - 👀 I’m interested in coding and web development. I am currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on various develpment projects and learning new things.
 - 📫 How to reach me- email @navyaajainn04@gmail.com
