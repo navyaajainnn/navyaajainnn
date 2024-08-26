@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **all kinds of full stack projects**
 
-- 💬 Ask me about **HTML, CSS, JS, React, Tailwind**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **navyaajainn04@gmail.com**
 
