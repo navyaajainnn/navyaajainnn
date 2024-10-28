@@ -34,6 +34,8 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyaajainnn&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="navyaajainnn" width="500" /></p>
+
+[![An image of @navyaajainnn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navyaajainnn)](https://holopin.io/@navyaajainnn)
   
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=navyaajainnn&theme=onedark)
