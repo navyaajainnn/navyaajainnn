@@ -29,7 +29,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=navyaajainnn&theme=gotham&show_icons=true&hide_border=false&count_private=true" title="GitHub Stats" alt="GitHub Stats" width="500"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navyaajainnn&theme=gotham&hide_border=false" alt="navyaajainnn" /></p>
 </div>
 
 <div align="center">
